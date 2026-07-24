@@ -66,28 +66,6 @@
     "uniques": ["Gain [1000] [Gold]"],
     "color": "#ffeb7f"
   },
-
-  {
-    "name": "discover holy symbols",
-    "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
-    "uniques": [
-      "Only available <when religion is enabled>",
-      "Gain enough Faith for a Pantheon",
-      "Only available <before founding a Pantheon>"
-    ],
-    "color": "#CDDDF4"
-  },
-  {
-    "name": "an ancient prophecy",
-    "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
-    "uniques": [
-      "Only available <when religion is enabled>",
-      "Gain enough Faith for [33]% of a Great Prophet",
-      "Unavailable <after generating a Great Prophet>",
-      "Only available <after founding a Pantheon>"
-    ],
-    "color": "#CDDDF4"
-  },
   {
     "name": "a praying priest",
     "notification": "A dying priest prays for you! (+[faithAmount] faith)",
@@ -98,17 +76,6 @@
     ],
     "color": "#CDDDF4"
   },
-  {
-    "name": "a wandering oracle",
-    "notification": "An oracle foresees your future! (+[faithAmount] faith)",
-    "uniques": [
-      "Only available <when religion is enabled>",
-      "Gain [250]-[350] [Faith]",
-      "Only available <after founding a Pantheon>"
-    ],
-    "color": "#CDDDF4"
-  },
-
   {
     "name": "survivors (adds population to a city)",
     "notification": "We have found survivors in the ruins! Population added to [cityName].",
@@ -181,11 +148,6 @@
     "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
   },
   {
-    "name": "find a well-drawn map",
-    "notification": "We have found a well-drawn map in the ruins!",
-    "uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"]
-  },
-  {
     "name": "ULTIMATE scientific breakthrough",
     "notification": "We recover lost schematics and research logs! (+[scienceAmount] Science)",
     "uniques": ["Gain [150]-[600] [Science]"],
@@ -196,15 +158,6 @@
     "notification": "A mythical treasure hoard is found in the ruins! (+[goldAmount] Gold)",
     "uniques": ["Gain [300]-[1500] [Gold]"],
     "color": "#ffeb7f"
-  },
-  {
-    "name": "ULTIMATE sacred revelation",
-    "notification": "A sacred revelation reshapes our beliefs! (+[faithAmount] Faith)",
-    "uniques": [
-      "Only available <when religion is enabled>",
-      "Gain [200]-[1200] [Faith]"
-    ],
-    "color": "#CDDDF4"
   },
   {
     "name": "ULTIMATE resettlement wave (adds population)",
