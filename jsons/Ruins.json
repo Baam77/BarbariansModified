@@ -44,20 +44,20 @@
 
   {
     "name": "small money",
-    "notification": "Small amount of money buried underground! (+50 gold)",
-    "uniques": ["Gain [50] [Gold]"],
+    "notification": "Small amount of money buried underground! (+100 gold)",
+    "uniques": ["Gain [100] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "a pocket of gold",
-    "notification": "A pocket of gold buried underground! (+100 gold)",
-    "uniques": ["Gain [100] [Gold]"],
+    "notification": "A pocket of gold buried underground! (+200 gold)",
+    "uniques": ["Gain [200] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "a stash of gold",
     "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
-    "uniques": ["Gain [175]-[250] [Gold]"],
+    "uniques": ["Gain [300]-[500] [Gold]"],
     "color": "#ffeb7f"
   },
   {
@@ -65,16 +65,6 @@
     "notification": "Jackpot! (+1000 gold)",
     "uniques": ["Gain [1000] [Gold]"],
     "color": "#ffeb7f"
-  },
-  {
-    "name": "a praying priest",
-    "notification": "A dying priest prays for you! (+[faithAmount] faith)",
-    "uniques": [
-      "Only available <when religion is enabled>",
-      "Gain [100]-[250] [Faith]",
-      "Only available <after founding a Pantheon>"
-    ],
-    "color": "#CDDDF4"
   },
   {
     "name": "survivors (adds population to a city)",
@@ -95,12 +85,6 @@
     "uniques": ["Free [Worker] found in the ruins"]
   },
   {
-    "name": "squatters wishing to settle under your rule",
-    "notification": "A [Settler] has joined us!",
-    "uniques": ["Free [Settler] found in the ruins"]
-  },
-
-  {
     "name": "free a general",
     "notification": "Accidentally, we save a former general!",
     "uniques": ["Free [Great General] found in the ruins"],
@@ -116,13 +100,13 @@
   {
     "name": "your exploring unit receives training",
     "notification": "An ancient tribe trained us in their ways of combat!",
-    "uniques": ["[This Unit] gains [15] XP"],
+    "uniques": ["[This Unit] gains [30] XP"],
     "color": "#20afe8"
   },
   {
     "name": "hell training",
     "notification": "Your men experience a hellish training!",
-    "uniques": ["[This Unit] gains [30] XP"],
+    "uniques": ["[This Unit] gains [50] XP"],
     "color": "#20afe8"
   },
   {
@@ -178,17 +162,5 @@
     "notification": "Veteran instructors drill our unit to elite standards!",
     "uniques": ["[This Unit] gains [100] XP"],
     "color": "#20afe8"
-  },
-  {
-    "name": "ULTIMATE golden age trigger",
-    "notification": "A legendary find sparks an empire-wide celebration!",
-    "uniques": ["Empire enters golden age"],
-    "color": "#cf8ff7"
-  },
-  {
-    "name": "into era of greatness",
-    "notification": "Solving a potential problem bring us into an era of greatness!",
-    "uniques": ["Empire enters golden age"],
-    "color": "#cf8ff7"
   }
 ]
