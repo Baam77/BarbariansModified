@@ -36,13 +36,6 @@
     "color": "#7f7fff"
   },
   {
-    "name": "discover a lost technology",
-    "notification": "We have discovered the lost technology of [techName] in the ruins!",
-    "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
-    "color": "#7f7fff"
-  },
-
-  {
     "name": "small money",
     "notification": "Small amount of money buried underground! [goldAmount]",
     "uniques": ["Gain [200]-[500] [Gold]"],
@@ -71,11 +64,6 @@
     "notification": "We have found survivors in the ruins! Population added to [cityName].",
     "uniques": ["[+2] population in a random city"],
     "color": "#81c784"
-  },
-  {
-    "name": "squatters willing to work for you",
-    "notification": "A [Worker] has joined us!",
-    "uniques": ["Free [Worker] found in the ruins"]
   },
   {
     "name": "free a general",
