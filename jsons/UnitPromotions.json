@@ -3,7 +3,7 @@
 		"name": "Barbarian Strength", // Barbarians Land
 		"uniques": [
 			"No movement cost to pillage",
-			"[+15]% Strength when stacked with [Civilian]"
+			"[+20]% Strength when stacked with [Civilian]"
 		],
 	},
 	{
@@ -16,8 +16,8 @@
 	{
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
-			"[+15]% Strength <when defending>", 
-			"[+1] Sight"
+			"[+20]% Strength <when defending>", 
+			"[+2] Sight"
 		]
 	}
 ]
