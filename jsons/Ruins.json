@@ -1,14 +1,14 @@
 [
   {
     "name": "discover cultural sign",
-    "notification": "We have discovered cultural signs in the ruins! (+20 culture)",
-    "uniques": ["Gain [20] [Culture]"],
+    "notification": "We have discovered cultural signs in the ruins! (+[cultureAmount] culture)",
+    "uniques": ["Gain [20]-[50] [Culture]"],
     "color": "#cf8ff7"
   },
   {
     "name": "discover cultural artifacts",
-    "notification": "We have discovered cultural artifacts in the ruins! (+50 culture)",
-    "uniques": ["Gain [50] [Culture]"],
+    "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] culture)",
+    "uniques": ["Gain [50]-[80] [Culture]"],
     "color": "#cf8ff7"
   },
   {
@@ -19,20 +19,20 @@
   },
   {
     "name": "discover a portion of technology",
-    "notification": "We have discovered a portion of advanced technology! (+50 science)",
-    "uniques": ["Gain [50] [Science]"],
+    "notification": "We have discovered a portion of advanced technology! (+[scienceAmount] science)",
+    "uniques": ["Gain [50]-[100] [Science]"],
     "color": "#7f7fff"
   },
   {
     "name": "discover a research note",
     "notification": "We have discovered an Inventor's research note! (+[scienceAmount] science)",
-    "uniques": ["Gain [80]-[120] [Science]"],
+    "uniques": ["Gain [100]-[150] [Science]"],
     "color": "#7f7fff"
   },
   {
     "name": "stolen technology",
     "notification": "We have successfully taken control of the stolen technology! (+[scienceAmount] science)",
-    "uniques": ["Gain [140]-[180] [Science]"],
+    "uniques": ["Gain [150]-[200] [Science]"],
     "color": "#7f7fff"
   },
   {
@@ -44,41 +44,34 @@
 
   {
     "name": "small money",
-    "notification": "Small amount of money buried underground! (+100 gold)",
-    "uniques": ["Gain [100] [Gold]"],
+    "notification": "Small amount of money buried underground! [goldAmount]",
+    "uniques": ["Gain [200]-[500] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "a pocket of gold",
-    "notification": "A pocket of gold buried underground! (+200 gold)",
-    "uniques": ["Gain [200] [Gold]"],
+    "notification": "A pocket of gold buried underground! [goldAmount]",
+    "uniques": ["Gain [500]-[1000] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "a stash of gold",
     "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
-    "uniques": ["Gain [300]-[500] [Gold]"],
+    "uniques": ["Gain [1000]-[2000] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "hit a jackpot",
     "notification": "Jackpot! (+1000 gold)",
-    "uniques": ["Gain [1000] [Gold]"],
+    "uniques": ["Gain [2000]-[3000] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "survivors (adds population to a city)",
     "notification": "We have found survivors in the ruins! Population added to [cityName].",
-    "uniques": ["[+1] population in a random city"],
+    "uniques": ["[+2] population in a random city"],
     "color": "#81c784"
   },
-  {
-    "name": "accepted immigrants (adds 3 population to a city)",
-    "notification": "A family of immigrants saved in the ruins! Population added to [cityName].",
-    "uniques": ["[+3] population [in capital]"],
-    "color": "#81c784"
-  },
-
   {
     "name": "squatters willing to work for you",
     "notification": "A [Worker] has joined us!",
@@ -100,13 +93,13 @@
   {
     "name": "your exploring unit receives training",
     "notification": "An ancient tribe trained us in their ways of combat!",
-    "uniques": ["[This Unit] gains [30] XP"],
+    "uniques": ["[This Unit] gains [50]-[80]  XP"],
     "color": "#20afe8"
   },
   {
     "name": "hell training",
     "notification": "Your men experience a hellish training!",
-    "uniques": ["[This Unit] gains [50] XP"],
+    "uniques": ["[This Unit] gains [80]-[150]  XP"],
     "color": "#20afe8"
   },
   {
@@ -127,40 +120,15 @@
     "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
   },
   {
-    "name": "find a crudely-drawn map",
-    "notification": "We have found a crudely-drawn map in the ruins!",
-    "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
-  },
-  {
     "name": "ULTIMATE scientific breakthrough",
     "notification": "We recover lost schematics and research logs! (+[scienceAmount] Science)",
-    "uniques": ["Gain [150]-[600] [Science]"],
+    "uniques": ["Gain [200]-[700] [Science]"],
     "color": "#7f7fff"
-  },
-  {
-    "name": "ULTIMATE treasure hoard",
-    "notification": "A mythical treasure hoard is found in the ruins! (+[goldAmount] Gold)",
-    "uniques": ["Gain [300]-[1500] [Gold]"],
-    "color": "#ffeb7f"
-  },
-  {
-    "name": "ULTIMATE resettlement wave (adds population)",
-    "notification": "A massive group of survivors joins our empire! Population added to [cityName].",
-    "uniques": ["[+7] population in a random city"],
-    "color": "#81c784"
-  },
-  {
-    "name": "ULTIMATE settlers & workforce join",
-    "notification": "A full expedition joins us from the ruins!",
-    "uniques": [
-      "Free [Settler] found in the ruins",
-      "Free [Worker] found in the ruins"
-    ]
   },
   {
     "name": "ULTIMATE veteran training",
     "notification": "Veteran instructors drill our unit to elite standards!",
-    "uniques": ["[This Unit] gains [100] XP"],
+    "uniques": ["[This Unit] gains [150]-[200]  XP"],
     "color": "#20afe8"
   }
 ]
