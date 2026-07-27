@@ -87,7 +87,7 @@
   {
     "name": "hell training",
     "notification": "Your men experience a hellish training!",
-    "uniques": ["[This Unit] gains [100]-[150] [XP] XP"],
+    "uniques": ["[This Unit] gains [100]-[150] [XP]"],
     "color": "#20afe8"
   },
   {
