@@ -81,13 +81,13 @@
   {
     "name": "your exploring unit receives training",
     "notification": "An ancient tribe trained us in their ways of combat!",
-    "uniques": ["[This Unit] gains [60]-[100] [XP]"],
+    "uniques": ["[This Unit] gains [60]-[100] XP"],
     "color": "#20afe8"
   },
   {
     "name": "hell training",
     "notification": "Your men experience a hellish training!",
-    "uniques": ["[This Unit] gains [100]-[150] [XP]"],
+    "uniques": ["[This Unit] gains [100]-[150] XP"],
     "color": "#20afe8"
   },
   {
@@ -116,7 +116,7 @@
   {
     "name": "ULTIMATE veteran training",
     "notification": "Veteran instructors drill our unit to elite standards!",
-    "uniques": ["[This Unit] gains [150]-[200] [XP]"],
+    "uniques": ["[This Unit] gains [150]-[200] XP"],
     "color": "#20afe8"
   }
 ]
