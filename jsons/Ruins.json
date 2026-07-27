@@ -116,7 +116,7 @@
   {
     "name": "ULTIMATE veteran training",
     "notification": "Veteran instructors drill our unit to elite standards!",
-    "uniques": ["[This Unit] gains [200] XP"],
+    "uniques": ["[This Unit] gains [200]-[700] [XP]"],
     "color": "#20afe8"
   }
 ]
