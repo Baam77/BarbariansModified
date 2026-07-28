@@ -50,13 +50,13 @@
   {
     "name": "a stash of gold",
     "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
-    "uniques": ["Gain [1000]-[2000] [Gold]"],
+    "uniques": ["Gain [1000]-[1500] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "hit a jackpot",
     "notification": "Jackpot! [goldAmount]",
-    "uniques": ["Gain [2000]-[3000] [Gold]"],
+    "uniques": ["Gain [1500]-[2000] [Gold]"],
     "color": "#ffeb7f"
   },
   {
