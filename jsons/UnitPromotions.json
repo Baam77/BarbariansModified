@@ -16,7 +16,7 @@
 	{
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
-			"[+20]% Strength <when defending>", 
+			"[+10]% Strength <when defending>", 
 			"[+2] Sight"
 		]
 	}
