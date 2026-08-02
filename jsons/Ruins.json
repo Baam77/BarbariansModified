@@ -1,11 +1,5 @@
 [
   {
-    "name": "discover cultural sign",
-    "notification": "We have discovered cultural signs in the ruins! (+[cultureAmount] culture)",
-    "uniques": ["Gain [20]-[50] [Culture]"],
-    "color": "#cf8ff7"
-  },
-  {
     "name": "discover cultural artifacts",
     "notification": "We have discovered cultural artifacts in the ruins! (+[cultureAmount] culture)",
     "uniques": ["Gain [50]-[80] [Culture]"],
@@ -66,9 +60,9 @@
     "color": "#81c784"
   },
   {
-    "name": "free a general",
-    "notification": "Accidentally, we save a former general!",
-    "uniques": ["Free [Great General] found in the ruins"],
+    "name": "free a engineer",
+    "notification": "Accidentally, we save a Engineer!",
+    "uniques": ["Free [Great Engineer] found in the ruins"],
     "color": "#e89220"
   },
   {
