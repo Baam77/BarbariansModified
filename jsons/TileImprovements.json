@@ -2,7 +2,7 @@
 	{ 
 		"name": "Barbarian encampment", 
         "gold": 1,
-		"turnsToBuild": 6,
+		"turnsToBuild": 5,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Unpillagable",
