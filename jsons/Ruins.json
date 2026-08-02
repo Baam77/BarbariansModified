@@ -56,13 +56,13 @@
   {
     "name": "hit a jackpot",
     "notification": "Jackpot! [goldAmount]",
-    "uniques": ["Gain [1500]-[2000] [Gold]"],
+    "uniques": ["Gain [2000]-[3000] [Gold]"],
     "color": "#ffeb7f"
   },
   {
     "name": "survivors (adds population to a city)",
     "notification": "We have found survivors in the ruins! Population added to [cityName].",
-    "uniques": ["[+2] population in a random city"],
+    "uniques": ["[+3] population in a random city"],
     "color": "#81c784"
   },
   {
@@ -101,11 +101,6 @@
     "notification": "Our unit finds advanced weaponry hidden in the ruins!",
     "uniques": ["[This Unit] upgrades for free including special upgrades"],
     "color": "#20afe8"
-  },
-  {
-    "name": "reveal nearby Barbarian camps",
-    "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-    "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
   },
   {
     "name": "ULTIMATE scientific breakthrough",
