@@ -66,9 +66,9 @@
     "color": "#e89220"
   },
   {
-    "name": "save a merchant",
-    "notification": "We have succesfully saved a [Great Merchant]!",
-    "uniques": ["Free [Great Merchant] found in the ruins"],
+    "name": "save a writer",
+    "notification": "We have succesfully saved a [Great Writer]!",
+    "uniques": ["Free [Great Writer] found in the ruins"],
     "color": "#e89220"
   },
 
